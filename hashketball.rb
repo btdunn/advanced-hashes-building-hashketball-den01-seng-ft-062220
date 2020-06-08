@@ -1,9 +1,9 @@
 def game_hash
   hasketball = {
-    :home = {
+    :home => {
       
-    }
-    :away = {
+    },
+    :away => {
       
     }
   }
